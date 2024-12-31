@@ -1,0 +1,3 @@
+in this file it is continution of summary.txt file
+it contains intermediate level git commands
+git commit -a -m"messge" to skip stagging area and directly commit we use this command.

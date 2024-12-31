@@ -1,0 +1,8 @@
+this is the file iam using for revising git and github
+git init     - for creating local or git repository.
+git init -b branchname    -giving branchname at initialization.
+git branch -M branchname    -for changing branch name
+git add -name of the file to be added      - to add to staging area.
+git add . - to add multiple files to stagging area.
+git commit -m "give some message" - to commit . after commmit it will be saved in git.
+save the file then do git add command

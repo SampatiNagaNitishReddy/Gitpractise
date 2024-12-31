@@ -6,3 +6,5 @@ git add -name of the file to be added      - to add to staging area.
 git add . - to add multiple files to stagging area.
 git commit -m "give some message" - to commit . after commmit it will be saved in git.
 save the file then do git add command
+git log    -to see all the commit history
+git status -to check what is status 

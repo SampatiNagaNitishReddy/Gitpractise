@@ -6,3 +6,5 @@ git diff --staged   - to check differenences if they are already staged.
 git rm --cached filename -to remove a git file 
 ssh-keygen -o -this command is create key which we paste in github repository so,that the key is verified each time when 
                 you push to remote repository.
+git remote add origin git@github.com:SampatiNagaNitishReddy/Gitpractise.git   -this command to create origin         
+ git push -u origin main  -this command to push command to remote repository.

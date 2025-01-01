@@ -4,3 +4,5 @@ git commit -a -m"messge" to skip stagging area and directly commit we use this c
 git diff  -to check differences between to commits
 git diff --staged   - to check differenences if they are already staged. 
 git rm --cached filename -to remove a git file 
+ssh-keygen -o -this command is create key which we paste in github repository so,that the key is verified each time when 
+                you push to remote repository.

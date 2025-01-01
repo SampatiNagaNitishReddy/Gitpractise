@@ -9,4 +9,5 @@ ssh-keygen -o -this command is create key which we paste in github repository so
 git remote add origin git@github.com:SampatiNagaNitishReddy/Gitpractise.git   -this command to create origin         
  git push -u origin main  -this command to push command to remote repository.
 git remote -v  -this command is to check the origin 
-git tag -a <tag-name> -m "Tag message"
+git tag -a <tag-name> -m "Tag message"  -this command is to give tags this is annotated tag which gives you extra information.
+git tag <tag-name>  -this command is to give tags this is light weight tagging which doen't give extra information.

@@ -11,3 +11,8 @@ git remote add origin git@github.com:SampatiNagaNitishReddy/Gitpractise.git   -t
 git remote -v  -this command is to check the origin 
 git tag -a <tag-name> -m "Tag message"  -this command is to give tags this is annotated tag which gives you extra information.
 git tag <tag-name>  -this command is to give tags this is light weight tagging which doen't give extra information.
+git tag    -to see all the tags
+git show <tagname>   -to see about particular tag
+git log --pretty=oneline   - to see only commits and the message in one line excluding author related details.
+git clone <link of https or SSH> - this command is to clone project of others
+but you can't push to the thier  repository unless you are a contributor

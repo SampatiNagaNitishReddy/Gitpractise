@@ -2,3 +2,5 @@ in this we have adavanced commands
 git switch -c <new branch name>  - to create a new branch (old way)
 git checkout -b <new branch name> -to create a new branch (new way)
 git switch <branch name> / git checkout <branch name>  - to change branch
+git switch - - to change to previous branch
+git branch -d <branch name> - to delete branch
